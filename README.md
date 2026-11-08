@@ -1,8 +1,8 @@
-# gestureX 🧤
+# GestureX 🧤
 
 **Sensor-based hand gesture recognition using ESP32, flex sensors and an MPU6500.**
 
-*(Project report title: Hand Gesture Vocaliser)*
+*(GestureX: Hand Gesture Vocaliser)*
 
 ![ESP32](https://img.shields.io/badge/ESP32-DevKit%20V1-red)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -251,23 +251,6 @@ npm run dev
 
 ---
 
-## Repository Structure
-
-> Suggested layout; update to match your repo.
-
-```
-gestureX/
-├── firmware/        # ESP32 Arduino code (ADC + I2C + serial output)
-├── backend/         # Python: serial reader, calibration, classifier, FastAPI + WebSocket
-├── frontend/        # React + Vite dashboard
-├── docs/
-│   ├── images/      # Circuit diagrams, screenshots, hardware photos
-│   └── Report.pdf   # Project report
-└── README.md
-```
-
----
-
 ## Advantages and Limitations
 
 | Advantages | Limitations |
@@ -307,7 +290,3 @@ B.Tech ICT, Department of Information and Communication Technology, School of Te
 ## Acknowledgements
 
 Submitted to **Ms. Aarti Solanki** as the IoT project for July 2026 to November 2026.
-
-## License
-
-Add a license of your choice (e.g. MIT) in a `LICENSE` file and reference it here.
