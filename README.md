@@ -203,10 +203,6 @@ The web interface provides:
 - Gesture map view
 - Guided 4-stage calibration mode
 
-| Main dashboard | Calibration mode |
-|---|---|
-| ![Dashboard](docs/images/dashboard.png) | ![Calibration](docs/images/calibration.png) |
-
 ---
 
 ## Getting Started
@@ -280,7 +276,7 @@ The following are proposals and not part of the current implementation:
 
 ---
 
-## Authors
+## Developers
 
 - **Chirag Maloo**
 - **Sumit Mali**
